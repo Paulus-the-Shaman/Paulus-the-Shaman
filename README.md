@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Paulus
-- 👀 I’m interested in 3d generation through only text-based windows
-- 🌱 I’m currently learning to use web api's
-- 💞️ I’m looking to collaborate on making an encryption package
-- 📫 How to reach me: ashbeelpaul3985610@gmail.com
+- 👋 Hi, I’m Ashbeel
+- 👀 I love languages that work very closely to the system but not too dfficult
+- 🌱 I’m currently learning c++ and rust
+- 💞️ I’m hoping to learn audio in programing as well
+- 📫 How to reach me: AshbeelPaul@proton.me
 
 <!---
 Paulus-the-Shaman/Paulus-the-Shaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
